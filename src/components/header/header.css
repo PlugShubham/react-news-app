@@ -1,0 +1,9 @@
+.header-container{
+    background-color: #FE9F6D;
+    box-shadow: 3px 5px 4px #FFE8DC;
+}
+.logo{
+    color:#341809;
+    font-weight:bolder;
+    letter-spacing: 3px;
+}
